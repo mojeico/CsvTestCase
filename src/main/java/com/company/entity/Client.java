@@ -129,12 +129,13 @@ public class Client {
                 '}';
     }
 
-    public boolean verify(){
+    public boolean verify() {
 
-        if(this.A.isEmpty() || this.B.isEmpty() || this.C.isEmpty()){
-            return true;
-        }
-        return false;
+        return this.A.isEmpty() || this.B.isEmpty() ||
+                this.C.isEmpty() || this.D.isEmpty() ||
+                this.E.isEmpty() || this.F.isEmpty() ||
+                this.G.isEmpty() || this.H.isEmpty() ||
+                this.I.isEmpty() || this.J.isEmpty();
 
     }
 

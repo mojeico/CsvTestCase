@@ -1,0 +1,3 @@
+We got 6002 of records received 
+1133 of records failed, 
+4869 of records successful and 
