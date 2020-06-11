@@ -48,19 +48,3 @@ public class CsvRepository {
 
 
 }
-
-
-/*
-
-    CREATE TABLE IF NOT EXISTS "clients" (
-        "A"	TEXT NOT NULL,
-        "B"	TEXT NOT NULL,
-        "C"	TEXT NOT NULL,
-        "D"	TEXT NOT NULL,
-        "E"	TEXT NOT NULL,
-        "F"	TEXT NOT NULL,
-        "G"	TEXT NOT NULL,
-        "H"	TEXT NOT NULL,
-        "I"	TEXT NOT NULL,
-        "J"	TEXT NOT NULL
-        );*/

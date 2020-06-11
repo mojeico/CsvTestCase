@@ -86,7 +86,6 @@ public class CsvReader {
 
     }
 
-
     public int getInvalidLineCount() {
         return invalidLineCount;
     }
